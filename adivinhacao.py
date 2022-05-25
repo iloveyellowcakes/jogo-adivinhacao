@@ -1,7 +1,7 @@
 import random
 
 
-def jogar_adivinhacao():
+def jogar():
     separador = "*********************************"
     print(separador)
     print("Bem vindo ao jogo de adivinhação!")

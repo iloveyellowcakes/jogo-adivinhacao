@@ -12,7 +12,7 @@ resultado = int(input("Qual o jogo desejado: "))
 
 if resultado == 1:
     print("Jogando Adivinhação")
-    adivinhacao.jogar_adivinhacao()
+    adivinhacao.jogar()
 elif resultado == 2:
     print("Jogando Forca")
-    forca.jogo_forca()
+    forca.jogar()

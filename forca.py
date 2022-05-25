@@ -1,3 +1,3 @@
 
-def jogo_forca():
+def jogar():
     print("jogo forca")
