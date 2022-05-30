@@ -78,7 +78,7 @@ def mensagem_enforcou(erros):
     if erros == 1:
         print("   _________   ")
         print("  |/        |  ")
-        print("  |        (_) ")
+        print("  |       (x-x) ")
         print("  |            ")
         print("  |            ")
         print("__|__          ")
@@ -86,7 +86,7 @@ def mensagem_enforcou(erros):
     if erros == 2:
         print("   _________   ")
         print("  |/        |  ")
-        print("  |        (_) ")
+        print("  |       (x-x) ")
         print("  |         |  ")
         print("  |            ")
         print("__|__          ")
@@ -94,7 +94,7 @@ def mensagem_enforcou(erros):
     if erros == 3:
         print("   _________   ")
         print("  |/        |  ")
-        print("  |        (_) ")
+        print("  |       (x-x) ")
         print("  |        /|  ")
         print("  |            ")
         print("__|__          ")
@@ -102,7 +102,7 @@ def mensagem_enforcou(erros):
     if erros == 4:
         print("   _________   ")
         print("  |/        |  ")
-        print("  |        (_) ")
+        print("  |       (x-x) ")
         print("  |        /|\ ")
         print("  |            ")
         print("__|__          ")
@@ -110,7 +110,7 @@ def mensagem_enforcou(erros):
     if erros == 5:
         print("   _________   ")
         print("  |/        |  ")
-        print("  |        (_) ")
+        print("  |       (x-x) ")
         print("  |        /|\ ")
         print("  |        /   ")
         print("__|__          ")
@@ -118,7 +118,7 @@ def mensagem_enforcou(erros):
     if erros == 6:
         print("   _________   ")
         print("  |/        |  ")
-        print("  |        (_) ")
+        print("  |       (x-x) ")
         print("  |        /|\ ")
         print("  |        / \ ")
         print("__|__          ")

@@ -1,4 +1,4 @@
-maça
+maca
 morango
 banana
 melancia
@@ -7,4 +7,12 @@ damasco
 kiwi
 caqui
 laranja
+maracuja
+uva
+pera
+limao
+mexerica
+cacau
+caju
+cupuacu
 
